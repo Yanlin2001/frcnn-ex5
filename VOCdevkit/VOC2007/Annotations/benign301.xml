@@ -1,0 +1,26 @@
+<annotation>
+	<folder>benign</folder>
+	<filename>benign301.jpg</filename>
+	<path>C:\Users\LinziGoooosh\Documents\ex5\ope\benign\benign301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>463</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>61</ymin>
+			<xmax>436</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

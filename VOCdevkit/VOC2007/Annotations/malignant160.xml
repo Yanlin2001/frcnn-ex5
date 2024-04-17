@@ -1,0 +1,26 @@
+<annotation>
+	<folder>malignant</folder>
+	<filename>malignant160.jpg</filename>
+	<path>C:\Users\LinziGoooosh\Documents\ex5\ope\malignant\malignant160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>587</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>malignant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>152</ymin>
+			<xmax>613</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>
